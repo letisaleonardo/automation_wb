@@ -1,6 +1,6 @@
 # automation_wb
 
-Pré requisitos de execução
+Pré-requisitos de execução
 
 #Python 3.9
 #PIP
@@ -9,5 +9,6 @@ Pré requisitos de execução
 #Behave 
 
 
-#Apenas o primeiro cenário está em bdd, os demais foram feitos em python. 
-#caso tenha dificuldade na execução, podemos fazer uma call para mostrar como foi criado e a execução.
+#No arquivo scripts estão os cenários em bdd,as demais pastas são arquivos individuais de python em portugues dos cenários. 
+#caso tenha dificuldade na execução, podemos fazer uma call para mostrar como foi criado e executar.
+#Não foi vinculado a nenhum banco de dados, foi feita uma automação simples e focada em validação de interface.
